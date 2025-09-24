@@ -1,4 +1,5 @@
-# TasteHub-A Simple Restaurant Website
+# TasteHub
+A Simple Restaurant Website
 
 A modern, dark-themed restaurant website with pastel accents.  
 Built with HTML and CSS, featuring a responsive menu and contact form.
