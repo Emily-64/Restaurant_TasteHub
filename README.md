@@ -11,6 +11,4 @@ Built with HTML and CSS, featuring a responsive menu and contact form.
 - About and Contact sections
 - Smooth hover effects
 
-## Usage
-1. Clone the repo
-2. Open `index.html` in your browser
+
